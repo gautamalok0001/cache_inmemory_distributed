@@ -1,0 +1,11 @@
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.Data\bin\Debug\net7.0\memory-cache.Data.deps.json
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.Data\bin\Debug\net7.0\memory-cache.Data.dll
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.Data\bin\Debug\net7.0\memory-cache.Data.pdb
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.Data\obj\Debug\net7.0\memory-cache.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.Data\obj\Debug\net7.0\memory-cache.Data.AssemblyInfoInputs.cache
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.Data\obj\Debug\net7.0\memory-cache.Data.AssemblyInfo.cs
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.Data\obj\Debug\net7.0\memory-cache.Data.csproj.CoreCompileInputs.cache
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.Data\obj\Debug\net7.0\memory-cache.Data.dll
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.Data\obj\Debug\net7.0\refint\memory-cache.Data.dll
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.Data\obj\Debug\net7.0\memory-cache.Data.pdb
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.Data\obj\Debug\net7.0\ref\memory-cache.Data.dll

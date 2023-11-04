@@ -1,0 +1,10 @@
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\distributed-memory-cache\bin\Debug\netstandard2.1\distributed-memory-cache.deps.json
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\distributed-memory-cache\bin\Debug\netstandard2.1\distributed-memory-cache.dll
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\distributed-memory-cache\bin\Debug\netstandard2.1\distributed-memory-cache.pdb
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\distributed-memory-cache\obj\Debug\netstandard2.1\distributed-memory-cache.csproj.AssemblyReference.cache
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\distributed-memory-cache\obj\Debug\netstandard2.1\distributed-memory-cache.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\distributed-memory-cache\obj\Debug\netstandard2.1\distributed-memory-cache.AssemblyInfoInputs.cache
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\distributed-memory-cache\obj\Debug\netstandard2.1\distributed-memory-cache.AssemblyInfo.cs
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\distributed-memory-cache\obj\Debug\netstandard2.1\distributed-memory-cache.csproj.CoreCompileInputs.cache
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\distributed-memory-cache\obj\Debug\netstandard2.1\distributed-memory-cache.dll
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\distributed-memory-cache\obj\Debug\netstandard2.1\distributed-memory-cache.pdb

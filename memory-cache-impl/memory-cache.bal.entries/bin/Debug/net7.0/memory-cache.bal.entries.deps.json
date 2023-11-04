@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "memory-cache.bal.entries/1.0.0": {
+        "dependencies": {
+          "memory-cache.Data": "1.0.0"
+        },
+        "runtime": {
+          "memory-cache.bal.entries.dll": {}
+        }
+      },
+      "memory-cache.Data/1.0.0": {
+        "runtime": {
+          "memory-cache.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "memory-cache.bal.entries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "memory-cache.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

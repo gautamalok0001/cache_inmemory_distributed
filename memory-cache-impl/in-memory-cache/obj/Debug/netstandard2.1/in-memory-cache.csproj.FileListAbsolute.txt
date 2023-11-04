@@ -1,0 +1,10 @@
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\in-memory-cache\bin\Debug\netstandard2.1\in-memory-cache.deps.json
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\in-memory-cache\bin\Debug\netstandard2.1\in-memory-cache.dll
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\in-memory-cache\bin\Debug\netstandard2.1\in-memory-cache.pdb
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\in-memory-cache\obj\Debug\netstandard2.1\in-memory-cache.csproj.AssemblyReference.cache
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\in-memory-cache\obj\Debug\netstandard2.1\in-memory-cache.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\in-memory-cache\obj\Debug\netstandard2.1\in-memory-cache.AssemblyInfoInputs.cache
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\in-memory-cache\obj\Debug\netstandard2.1\in-memory-cache.AssemblyInfo.cs
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\in-memory-cache\obj\Debug\netstandard2.1\in-memory-cache.csproj.CoreCompileInputs.cache
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\in-memory-cache\obj\Debug\netstandard2.1\in-memory-cache.dll
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\in-memory-cache\obj\Debug\netstandard2.1\in-memory-cache.pdb

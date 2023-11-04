@@ -1,0 +1,15 @@
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.bal.entries\bin\Debug\net7.0\memory-cache.bal.entries.deps.json
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.bal.entries\bin\Debug\net7.0\memory-cache.bal.entries.dll
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.bal.entries\bin\Debug\net7.0\memory-cache.bal.entries.pdb
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.bal.entries\bin\Debug\net7.0\memory-cache.Data.dll
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.bal.entries\bin\Debug\net7.0\memory-cache.Data.pdb
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.bal.entries\obj\Debug\net7.0\memory-cache.bal.entries.csproj.AssemblyReference.cache
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.bal.entries\obj\Debug\net7.0\memory-cache.bal.entries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.bal.entries\obj\Debug\net7.0\memory-cache.bal.entries.AssemblyInfoInputs.cache
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.bal.entries\obj\Debug\net7.0\memory-cache.bal.entries.AssemblyInfo.cs
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.bal.entries\obj\Debug\net7.0\memory-cache.bal.entries.csproj.CoreCompileInputs.cache
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.bal.entries\obj\Debug\net7.0\memory-cache.bal.entries.csproj.CopyComplete
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.bal.entries\obj\Debug\net7.0\memory-cache.bal.entries.dll
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.bal.entries\obj\Debug\net7.0\refint\memory-cache.bal.entries.dll
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.bal.entries\obj\Debug\net7.0\memory-cache.bal.entries.pdb
+D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\memory-cache.bal.entries\obj\Debug\net7.0\ref\memory-cache.bal.entries.dll

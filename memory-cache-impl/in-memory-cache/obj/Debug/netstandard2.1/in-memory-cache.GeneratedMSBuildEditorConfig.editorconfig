@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = in_memory_cache
+build_property.ProjectDir = D:\Development_Practice\Development\POC\memory-cache\memory-cache-impl\in-memory-cache\

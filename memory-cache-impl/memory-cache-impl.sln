@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{1A0CB9DE-0178-427C-82B3-68AA248A764D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{9274BC94-972E-4F12-A532-5144FB6BEA6F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BAL", "BAL", "{3EB6791C-EE7A-44EC-9A2A-7C576BADB69C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "In-Memory", "In-Memory", "{BE6220C2-E733-449A-BF3B-E59BB95651DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Distributed", "Distributed", "{BEAD0171-AE48-4CF1-8CE2-1E30F4466153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "in-memory-cache", "in-memory-cache\in-memory-cache.csproj", "{6DB7850F-2729-400C-8F1F-F785B40B11DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "distributed-memory-cache", "distributed-memory-cache\distributed-memory-cache.csproj", "{F2ED3013-4510-424C-94EF-9CC7FB7A951B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "memory-cache.dal", "memory-cache.dal\memory-cache.dal.csproj", "{9EA764C4-F2F3-4E42-B747-84FA25322050}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "memory-cache.api", "memory-cache.api\memory-cache.api.csproj", "{12BCB477-0C04-433A-B35D-7F73E349DFE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{9D825084-64F0-4C78-93CA-0430C61544EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "memory-cache.Data", "memory-cache.Data\memory-cache.Data.csproj", "{4E32684C-00A5-4594-AC1B-D1A03ED4FBA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "memory-cache.bal", "memory-cache.bal\memory-cache.bal.csproj", "{A15CAC1C-9604-4A2C-93B1-EF67A8D06477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "memory-cache.bal.entries", "memory-cache.bal.entries\memory-cache.bal.entries.csproj", "{A69AB692-DBA3-424D-AEA5-6738B579DAA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DB7850F-2729-400C-8F1F-F785B40B11DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB7850F-2729-400C-8F1F-F785B40B11DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB7850F-2729-400C-8F1F-F785B40B11DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB7850F-2729-400C-8F1F-F785B40B11DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2ED3013-4510-424C-94EF-9CC7FB7A951B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2ED3013-4510-424C-94EF-9CC7FB7A951B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2ED3013-4510-424C-94EF-9CC7FB7A951B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2ED3013-4510-424C-94EF-9CC7FB7A951B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EA764C4-F2F3-4E42-B747-84FA25322050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA764C4-F2F3-4E42-B747-84FA25322050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA764C4-F2F3-4E42-B747-84FA25322050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA764C4-F2F3-4E42-B747-84FA25322050}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12BCB477-0C04-433A-B35D-7F73E349DFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BCB477-0C04-433A-B35D-7F73E349DFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BCB477-0C04-433A-B35D-7F73E349DFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12BCB477-0C04-433A-B35D-7F73E349DFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E32684C-00A5-4594-AC1B-D1A03ED4FBA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E32684C-00A5-4594-AC1B-D1A03ED4FBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E32684C-00A5-4594-AC1B-D1A03ED4FBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E32684C-00A5-4594-AC1B-D1A03ED4FBA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15CAC1C-9604-4A2C-93B1-EF67A8D06477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15CAC1C-9604-4A2C-93B1-EF67A8D06477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15CAC1C-9604-4A2C-93B1-EF67A8D06477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15CAC1C-9604-4A2C-93B1-EF67A8D06477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A69AB692-DBA3-424D-AEA5-6738B579DAA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69AB692-DBA3-424D-AEA5-6738B579DAA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69AB692-DBA3-424D-AEA5-6738B579DAA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69AB692-DBA3-424D-AEA5-6738B579DAA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6DB7850F-2729-400C-8F1F-F785B40B11DD} = {BE6220C2-E733-449A-BF3B-E59BB95651DE}
+		{F2ED3013-4510-424C-94EF-9CC7FB7A951B} = {BEAD0171-AE48-4CF1-8CE2-1E30F4466153}
+		{9EA764C4-F2F3-4E42-B747-84FA25322050} = {9274BC94-972E-4F12-A532-5144FB6BEA6F}
+		{12BCB477-0C04-433A-B35D-7F73E349DFE4} = {1A0CB9DE-0178-427C-82B3-68AA248A764D}
+		{4E32684C-00A5-4594-AC1B-D1A03ED4FBA5} = {9D825084-64F0-4C78-93CA-0430C61544EF}
+		{A15CAC1C-9604-4A2C-93B1-EF67A8D06477} = {3EB6791C-EE7A-44EC-9A2A-7C576BADB69C}
+		{A69AB692-DBA3-424D-AEA5-6738B579DAA1} = {3EB6791C-EE7A-44EC-9A2A-7C576BADB69C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC15CE8B-795E-453D-BD2E-9CC504AA21CA}
+	EndGlobalSection
+EndGlobal

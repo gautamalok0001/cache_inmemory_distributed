@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "afgrMiCKwngec8qz4DDlN5lsbema/mS1M6nBvxu3row=",
+  "Source": "memory-cache.api",
+  "BasePath": "_content/memory-cache.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
